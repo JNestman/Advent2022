@@ -1,0 +1,4 @@
+﻿  DayOne.cpp
+C:\Users\JNestman\Desktop\AdventOfCode\DayOne\DayOne\DayOne\DayOne.cpp(37,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JNestman\Desktop\AdventOfCode\DayOne\DayOne\DayOne\DayOne.cpp(41,27): warning C4018: '<': signed/unsigned mismatch
+  DayOne.vcxproj -> C:\Users\JNestman\Desktop\AdventOfCode\DayOne\DayOne\Debug\DayOne.exe
