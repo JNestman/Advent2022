@@ -1,0 +1,5 @@
+﻿  Day6.cpp
+C:\Users\JNestman\Desktop\AdventOfCode\Day6\Day6\Day6.cpp(18,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JNestman\Desktop\AdventOfCode\Day6\Day6\Day6.cpp(24,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JNestman\Desktop\AdventOfCode\Day6\Day6\Day6.cpp(26,41): warning C4018: '<': signed/unsigned mismatch
+  Day6.vcxproj -> C:\Users\JNestman\Desktop\AdventOfCode\Day6\Debug\Day6.exe
